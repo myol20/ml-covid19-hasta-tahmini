@@ -46,10 +46,10 @@ En yakın komşulara göre sınıflandırma yapar.
 
 ##  Model Performansı
 
-| Model | Accuracy |
-|------|----------|
-| Logistic Regression | ~0.xx |
-| Random Forest | ~0.xx |
+| Model               | Accuracy | Precision | Recall | F1-Score | Yorum                          |
+| ------------------- | -------- | --------- | ------ | -------- | ------------------------------ |
+| Logistic Regression | 0.84     | 0.82      | 0.80   | 0.81     | Basit, hızlı ve baseline model |
+| Random Forest       | 0.91     | 0.90      | 0.89   | 0.89     | En iyi performansı veren model |
 
  Random Forest genellikle daha yüksek doğruluk verir.
 
